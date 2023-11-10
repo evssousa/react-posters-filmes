@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 
 # Print do projeto
 Projeto desenvolvido para praticar o framework React, mostrando postêrs dos filmes Star Wars, Empire Strikers Back e Return of the Jedi
+
 <img src='https://i.imgur.com/HxQ2fKO.png'>
